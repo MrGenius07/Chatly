@@ -1,4 +1,5 @@
-# cute_tinder
+# Chatly
+
 
 A new Flutter project.
 
