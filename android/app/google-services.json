@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "951014818162",
+    "project_id": "cute--tinder",
+    "storage_bucket": "cute--tinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951014818162:android:fcedcbb306547e31dc5deb",
+        "android_client_info": {
+          "package_name": "com.example.cute_tinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951014818162-5kcrro9lmrpb9439f0648rnovha9nsh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cute_tinder",
+            "certificate_hash": "dd1bdc6ecb7dfc5f0816971269d6db465e2cde58"
+          }
+        },
+        {
+          "client_id": "951014818162-1gksih9lssj867u5io09j9dphmugiri6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHeMMKASCf9afTV2LUD24ltBLzuzcg54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951014818162-1gksih9lssj867u5io09j9dphmugiri6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "951014818162-4dcfsrum72jvei3c1h1k0imvb3memk9v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cuteTinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
